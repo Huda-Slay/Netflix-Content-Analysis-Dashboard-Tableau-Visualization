@@ -54,7 +54,8 @@ Through this dashboard, users can interactively explore what types of content do
 
 ## 🖼️ Dashboard Preview
 
-![Netflix Tableau Dashboard](./Screenshot.png)
+![Netflix Tableau Dashboard]<img width="1297" height="728" alt="Screenshot 2025-10-08 131509" src="https://github.com/user-attachments/assets/47fe2c67-de07-4b1b-a1fc-c890bec59b0a" />
+
 
 ## 🧰 Tools Used
 
